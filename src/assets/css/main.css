@@ -3190,8 +3190,8 @@
 }
 
 .gallery-image img {
-	height: 250px;
-	width: 350px;
+	height: 720px;
+	width: 1280px;
 	transform: scale(1.0);
 	transition: transform 0.4s ease;
 }
@@ -3199,8 +3199,8 @@
 .img-box {
 	box-sizing: content-box;
 	margin: 10px;
-	height: 250px;
-	width: 350px;
+	height: 720px;
+	width: 1280px;
 	overflow: hidden;
 	display: inline-block;
 	color: white;
@@ -3217,8 +3217,8 @@
 }
 
 .transparent-box {
-	height: 250px;
-	width: 350px;
+	height: 720px;
+	width: 1280px;
 	background-color:rgba(0, 0, 0, 0);
 	position: absolute;
 	top: 0;
